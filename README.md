@@ -1,5 +1,5 @@
 # PRKPAW_Tugas3
-dokumentasi end point 
+## dokumentasi endpoint 
 
 # Check in 
 <img width="1920" height="1200" alt="Check in" src="https://github.com/user-attachments/assets/33360e8d-5c60-4747-ba4a-ca96f38b4734" />
@@ -7,7 +7,7 @@ dokumentasi end point
 # Check out
 <img width="1920" height="1200" alt="Check out" src="https://github.com/user-attachments/assets/140939c8-822c-48c8-9454-40ac54fbf2dc" />
 
-# Chwck in 2x
+# Check in 2x
 <img width="1920" height="1200" alt="Check in 2x" src="https://github.com/user-attachments/assets/18c6debe-cd26-453f-a009-8d1426d56d47" />
 
 # Check out tanpa check in
